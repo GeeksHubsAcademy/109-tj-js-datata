@@ -1,5 +1,5 @@
 function numPrimo(input) {
- return null;
+ return 1234;
 }
 
 module.exports = numPrimo;
